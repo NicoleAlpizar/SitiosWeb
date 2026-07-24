@@ -63,3 +63,4 @@ if (isset($_GET['edit'])) {
         <button type="submit" name="update">Actualizar</button>
     </form>
     <?php
+}
